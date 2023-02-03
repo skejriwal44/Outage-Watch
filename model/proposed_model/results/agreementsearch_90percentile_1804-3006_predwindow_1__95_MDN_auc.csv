@@ -1,0 +1,8 @@
+Golden_metric,True Negative,False Negative,True Positive,False Positive,AUC
+istio_request_duration_milliseconds_count_5xx,3954,5,299,4,0.9991539453737932
+apm.service.cpu.usertime.utilization,3683,9,195,375,0.974806482474705
+elasticsearch_os_load15,3806,5,292,159,0.9951197557754934
+apm.service.apdex,3629,0,10,623,0.9409924741298212
+apm.service.error.count,3730,3,187,342,0.9805410505635405
+throughput,3801,1,453,7,0.9997668946433199
+istio_request_duration_milliseconds_count_4xx,2831,12,1400,19,0.9995740768351473

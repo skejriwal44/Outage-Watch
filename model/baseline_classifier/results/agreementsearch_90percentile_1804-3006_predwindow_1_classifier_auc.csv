@@ -1,0 +1,8 @@
+Golden Metric,Training AUC,Test AUC,Training Class Imbalance,Test Class Imbalance,True Positive,False Positive,True Negative,False Negative
+istio_request_duration_milliseconds_count_5xx_pred,0.6391251087188721,0.8329640626907349,3.81%,29.78%,841,441,2544,425
+apm.service.cpu.usertime.utilization_pred,0.5736520886421204,0.6864461898803711,7.26%,10.49%,424,2147,1658,22
+elasticsearch_os_load15_pred,0.8248527646064758,0.9630723595619202,18.65%,17.88%,753,127,3364,7
+apm.service.apdex_pred,0.8268437385559082,0.9499887824058533,10.1%,6.92%,275,491,3466,19
+apm.service.error.count_pred,0.5472582578659058,0.6975667476654053,4.36%,12.49%,333,748,2972,198
+throughput_pred,0.6894022226333618,0.8989086747169495,15.22%,10.68%,443,66,3731,11
+istio_request_duration_milliseconds_count_4xx_pred,0.7574199438095093,0.9522606134414673,4.26%,37.8%,1474,140,2504,133

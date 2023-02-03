@@ -1,0 +1,11 @@
+json
+keras
+numpy
+pandas
+scikit-learn
+scipy
+sklearn
+seaborn
+tensorflow
+tensorflow-probability
+tqdm

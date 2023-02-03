@@ -1,0 +1,1 @@
+{"istio_request_duration_milliseconds_count_5xx": 10.275503673482199, "apm.service.cpu.usertime.utilization": 4.4953025064642524, "elasticsearch_os_load15": 37.22475092470339, "apm.service.apdex": 0.9688293706997541, "apm.service.error.count": 25.819039806921786, "throughput": 266.69181904512135, "istio_request_duration_milliseconds_count_4xx": 40028.54699222232}
