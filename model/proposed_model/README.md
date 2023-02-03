@@ -1,4 +1,4 @@
-This folder contains our proposed model: **LSTM - MDN + Classifier**. 
+This folder contains our proposed model: **BiLSTM - MDN + Classifier**. 
 ### Modules
 1. [operations.py](operations.py): This module provides the custom defined loss function for the model.
 2. [data_preprocessing.py](data_preprocessing.py) : This module allows the user to preprocess data and splitn into train and test set.

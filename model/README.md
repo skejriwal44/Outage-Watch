@@ -25,7 +25,11 @@ ipython kernel install --user --name=env
 
 ### Folders
 
-1. baseline_classifier: This folder contains the baseline LSTM - classifier model.
-2. baseline_mdn: This folder contains the baseline LSTM - MDN model.
-3. proposed_model: This folder contains the proposed LSTM - MDN + Classifier model.
+1. baseline_classifier: This folder contains the baseline BiLSTM - classifier model.
+2. baseline_mdn: This folder contains the baseline BiLSTM - MDN model.
+3. proposed_model: This folder contains the proposed BiLSTM - MDN + Classifier model.
 4. sample_dataset: This folder contains the sample dataset for the model.
+
+#### Sample data:
+1. The csv file nomenclature is is X percentile with a pred and mdn forecast window of 1 which is 5 minutes.
+2. The csv file has metric_pred and metric_forecast columns for extreme event and metric value ground truth.
