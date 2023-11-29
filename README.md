@@ -11,6 +11,5 @@ The directory consists of :
 2. Running the scripts will produce results with the sample dataset only.
 3. Certain parts of the code that are not applicable to the sample dataset have been excluded, such as the alert-based extreme event label filtering and EVL loss parameters.
 4. This repository contains python files for the classifier, MDN, and MTL code and their respective main.ipynb notebooks for execution.
-5. A more comprehensive version of the code and sample datasets can be provided after legal evaluations and upon acceptance.
-
+  
 Please contact with authors for further info. 
